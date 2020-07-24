@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>System Settings on 3D Visualization System for Ophthalmic Surgery</title>
+    <link>https://naem-j.github.io/web-doc-example/operation/settings/system_settings/</link>
+    <description>Recent content in System Settings on 3D Visualization System for Ophthalmic Surgery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jul 2020 23:47:15 -0700</lastBuildDate>
+    
+	<atom:link href="https://naem-j.github.io/web-doc-example/operation/settings/system_settings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Input Source</title>
+      <link>https://naem-j.github.io/web-doc-example/operation/settings/system_settings/input_source/</link>
+      <pubDate>Sat, 11 Jul 2020 23:47:35 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/operation/settings/system_settings/input_source/</guid>
+      <description>The input source controls which port is displayed in the secondary view. To set the secondary input source, click Input Source.
+NOTE: No other sources are available for systems with a connected Analysis System.</description>
+    </item>
+    
+    <item>
+      <title>Monitor</title>
+      <link>https://naem-j.github.io/web-doc-example/operation/settings/system_settings/monitor/</link>
+      <pubDate>Sat, 11 Jul 2020 23:47:47 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/operation/settings/system_settings/monitor/</guid>
+      <description>The monitor system settings have adjustable settings for displays connected to the system. To access Monitor options, click Monitor.
+1 Monitor drop-down menu &amp;ndash; Selects a display.2 Primary Monitor toggle switch &amp;ndash; Sets the selected display to the primary display. Only use the provided monitor as the primary monitor.3 View drop-down menu &amp;ndash; Sets the content on the screen. Select one of the following: Control - Displays the user interface and system camera image.</description>
+    </item>
+    
+  </channel>
+</rss>

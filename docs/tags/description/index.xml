@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>description on 3D Visualization System for Ophthalmic Surgery</title>
+    <link>https://naem-j.github.io/web-doc-example/tags/description/</link>
+    <description>Recent content in description on 3D Visualization System for Ophthalmic Surgery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jul 2020 22:34:49 -0700</lastBuildDate>
+    
+	<atom:link href="https://naem-j.github.io/web-doc-example/tags/description/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Guide Overview</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/guide_overview/</link>
+      <pubDate>Fri, 10 Jul 2020 22:33:50 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/guide_overview/</guid>
+      <description>This user guide contains set up, operation, and other information about the 3D Visualization System.</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/guide_overview/terms/</link>
+      <pubDate>Fri, 10 Jul 2020 22:34:17 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/guide_overview/terms/</guid>
+      <description>The following terms are used in this guide or in the application:
+ System - The 3D visualization system, including the cart, display, and camera. Vit System - The Company Vitrectomy Vision system Phaco System - The Company Phacoemulsification Vision System Analysis System - The Company Measurement System  </description>
+    </item>
+    
+    <item>
+      <title>Symbols</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/guide_overview/symbols/</link>
+      <pubDate>Fri, 10 Jul 2020 22:34:49 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/guide_overview/symbols/</guid>
+      <description>The following symbols and icons are used on the system and in labels:
+  Date of Manufacture     Manufacturer     Risk of Electric Shock     Safety Warning   </description>
+    </item>
+    
+  </channel>
+</rss>

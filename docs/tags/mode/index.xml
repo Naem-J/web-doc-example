@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mode on 3D Visualization System for Ophthalmic Surgery</title>
+    <link>https://naem-j.github.io/web-doc-example/tags/mode/</link>
+    <description>Recent content in mode on 3D Visualization System for Ophthalmic Surgery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jul 2020 23:43:44 -0700</lastBuildDate>
+    
+	<atom:link href="https://naem-j.github.io/web-doc-example/tags/mode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Settings</title>
+      <link>https://naem-j.github.io/web-doc-example/operation/settings/</link>
+      <pubDate>Sat, 11 Jul 2020 23:43:44 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/operation/settings/</guid>
+      <description>To adjust image settings, click Settings.
+1 Vit System button &amp;ndash; Includes overlay options and imaging mode linking.2 Phaco System button &amp;ndash; Includes overlay options.3 Screen Layout button &amp;ndash; Adjusts the display layout and what features are included during surgical cases.4 Recording button &amp;ndash; Sets video parameters.5 Color Channels button &amp;ndash; Manages color emphasis.6 Light Profiles button &amp;ndash; Adjusts colors depending on the light source.</description>
+    </item>
+    
+    <item>
+      <title>Footswitch (Optional)</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/system_components/footswitch/</link>
+      <pubDate>Fri, 10 Jul 2020 22:46:15 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/system_components/footswitch/</guid>
+      <description>The footswitch performs basic functions during operation through controls operated by a foot.
+1 Left push button &amp;ndash; Changes the camera orientation between standard and inverted.2 Right push button &amp;ndash; Starts or stops movie recordings.3 Left pedal &amp;ndash; Cycles to the previous imaging mode.4 Right pedal &amp;ndash; Cycles to the next imaging mode.</description>
+    </item>
+    
+  </channel>
+</rss>

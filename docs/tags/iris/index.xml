@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iris on 3D Visualization System for Ophthalmic Surgery</title>
+    <link>https://naem-j.github.io/web-doc-example/tags/iris/</link>
+    <description>Recent content in iris on 3D Visualization System for Ophthalmic Surgery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jul 2020 22:45:28 -0700</lastBuildDate>
+    
+	<atom:link href="https://naem-j.github.io/web-doc-example/tags/iris/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Camera</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/system_components/camera/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:28 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/system_components/camera/</guid>
+      <description>The camera is a stereoscopic 3D camera with high dynamic range. Mount the camera on a surgical microscope.
+1 Camera &amp;ndash; Captures video from the connected microscope.2 Strain relief screw &amp;ndash; Holds the camera cable in place to reduce stress on the cable connection.3 USB camera connector &amp;ndash; Connects the camera to the cart.4 Iris slider &amp;ndash; Adjusts light exposure captured by the camera.</description>
+    </item>
+    
+  </channel>
+</rss>

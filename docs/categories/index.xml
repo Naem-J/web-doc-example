@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 3D Visualization System for Ophthalmic Surgery</title>
+    <link>https://naem-j.github.io/web-doc-example/categories/</link>
+    <description>Recent content in Categories on 3D Visualization System for Ophthalmic Surgery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jul 2020 00:03:28 -0700</lastBuildDate>
+    
+	<atom:link href="https://naem-j.github.io/web-doc-example/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>post-op</title>
+      <link>https://naem-j.github.io/web-doc-example/categories/post-op/</link>
+      <pubDate>Thu, 16 Jul 2020 00:03:28 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/categories/post-op/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>supplemental</title>
+      <link>https://naem-j.github.io/web-doc-example/categories/supplemental/</link>
+      <pubDate>Thu, 16 Jul 2020 00:03:28 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/categories/supplemental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intra-op</title>
+      <link>https://naem-j.github.io/web-doc-example/categories/intra-op/</link>
+      <pubDate>Thu, 16 Jul 2020 00:03:17 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/categories/intra-op/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>maintenance</title>
+      <link>https://naem-j.github.io/web-doc-example/categories/maintenance/</link>
+      <pubDate>Wed, 15 Jul 2020 23:30:02 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/categories/maintenance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>https://naem-j.github.io/web-doc-example/categories/software/</link>
+      <pubDate>Sat, 11 Jul 2020 23:48:12 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/categories/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pre-op</title>
+      <link>https://naem-j.github.io/web-doc-example/categories/pre-op/</link>
+      <pubDate>Sat, 11 Jul 2020 23:24:23 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/categories/pre-op/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hardware</title>
+      <link>https://naem-j.github.io/web-doc-example/categories/hardware/</link>
+      <pubDate>Sat, 11 Jul 2020 23:12:38 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/categories/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>introduction</title>
+      <link>https://naem-j.github.io/web-doc-example/categories/introduction/</link>
+      <pubDate>Fri, 10 Jul 2020 22:46:20 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/categories/introduction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

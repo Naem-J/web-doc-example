@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>System Setup on 3D Visualization System for Ophthalmic Surgery</title>
+    <link>https://naem-j.github.io/web-doc-example/system_setup/</link>
+    <description>Recent content in System Setup on 3D Visualization System for Ophthalmic Surgery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jul 2020 23:19:59 -0700</lastBuildDate>
+    
+	<atom:link href="https://naem-j.github.io/web-doc-example/system_setup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Startup Procedure</title>
+      <link>https://naem-j.github.io/web-doc-example/system_setup/startup_procedure/</link>
+      <pubDate>Fri, 10 Jul 2020 22:15:33 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_setup/startup_procedure/</guid>
+      <description>WARNINGTo avoid risk of electric shock, this equipment must only be connected to a supply mains with protective earth (ground).CAUTIONGrounding reliability can only be achieved when equipment is connected to an equivalent receptacle marked ‘Hospital Grade’.To power the system, perform the following:
+ Connect the power cable to a hospital-grade power outlet. Turn on the main power switch. Wait 30 seconds for the system to initialize.</description>
+    </item>
+    
+    <item>
+      <title>System Placement</title>
+      <link>https://naem-j.github.io/web-doc-example/system_setup/system_placement/</link>
+      <pubDate>Sat, 11 Jul 2020 23:12:26 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_setup/system_placement/</guid>
+      <description>CAUTIONDo not push or pull unit by the display or any cable. The unit should be pulled and not pushed, especially over elevator and door thresholds.For the best 3D effect, place the display next to the patient bed, between 4′ to 6′ (1.2m to 1.8 m) away from the user. Ensure the screen is at the same height as the user when he or she is seated at the operating table.</description>
+    </item>
+    
+    <item>
+      <title>Display Position</title>
+      <link>https://naem-j.github.io/web-doc-example/system_setup/display_position/</link>
+      <pubDate>Sat, 11 Jul 2020 23:12:38 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_setup/display_position/</guid>
+      <description>To place the display at the appropriate level and angle, move the display as follows:
+ To adjust the height of the display, carefully lift the display up or down. Avoid putting stress on the top of the display. To rotate the display, push the left or right side of the display. To tilt the display, push or pull the bottom of the display.  Note: If necessary, loosen the adjustment knobs on the display mounting bracket to adjust the tilt and tighten them to secure it.</description>
+    </item>
+    
+  </channel>
+</rss>

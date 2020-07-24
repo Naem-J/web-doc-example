@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ring on 3D Visualization System for Ophthalmic Surgery</title>
+    <link>https://naem-j.github.io/web-doc-example/tags/ring/</link>
+    <description>Recent content in ring on 3D Visualization System for Ophthalmic Surgery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jul 2020 21:06:52 -0700</lastBuildDate>
+    
+	<atom:link href="https://naem-j.github.io/web-doc-example/tags/ring/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Camera Installation</title>
+      <link>https://naem-j.github.io/web-doc-example/system_setup/system_assembly/camera_installation/</link>
+      <pubDate>Fri, 10 Jul 2020 21:06:52 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_setup/system_assembly/camera_installation/</guid>
+      <description>Mount the camera to a surgical microscope. Depending on the microscope model, install an L-ring bracket to the camera lens. Ensure the entire optical path is clean and free of dust before attaching the camera.
+ Mount ring bracket. Connect the camera to the microscope with the slider facing the user. Loosely wrap the camera cable around the microscope arm so that the cable does not interfere with the surgery or restrict movement of the microscope.</description>
+    </item>
+    
+  </channel>
+</rss>

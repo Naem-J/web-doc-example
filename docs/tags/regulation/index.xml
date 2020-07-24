@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>regulation on 3D Visualization System for Ophthalmic Surgery</title>
+    <link>https://naem-j.github.io/web-doc-example/tags/regulation/</link>
+    <description>Recent content in regulation on 3D Visualization System for Ophthalmic Surgery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jul 2020 22:37:37 -0700</lastBuildDate>
+    
+	<atom:link href="https://naem-j.github.io/web-doc-example/tags/regulation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Symbols</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/guide_overview/symbols/</link>
+      <pubDate>Fri, 10 Jul 2020 22:34:49 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/guide_overview/symbols/</guid>
+      <description>The following symbols and icons are used on the system and in labels:
+  Date of Manufacture     Manufacturer     Risk of Electric Shock     Safety Warning   </description>
+    </item>
+    
+    <item>
+      <title>System Description</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/system_overview/system_description/</link>
+      <pubDate>Fri, 10 Jul 2020 22:35:27 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/system_overview/system_description/</guid>
+      <description>The system is a 3D stereoscopic, high-definition digital video camera and workstation that operates as an adjunct to a surgical microscope during surgery. The system displays real-time images or images from recordings on a flat-panel, high-definition digital 3D display device, positioned for viewing video. There is no additional light (or energy) delivered by the system.</description>
+    </item>
+    
+    <item>
+      <title>Intended Use</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/system_overview/intended_use/</link>
+      <pubDate>Fri, 10 Jul 2020 22:35:43 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/system_overview/intended_use/</guid>
+      <description>The system is intended to aid trained surgeons in visualization during ophthalmic surgery.</description>
+    </item>
+    
+    <item>
+      <title>Indications for Use</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/system_overview/indications_for_use/</link>
+      <pubDate>Fri, 10 Jul 2020 22:37:01 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/system_overview/indications_for_use/</guid>
+      <description>The system is provides magnified stereoscopic images of objects in real time or from recordings.</description>
+    </item>
+    
+    <item>
+      <title>Contraindications</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/system_overview/contraindications/</link>
+      <pubDate>Fri, 10 Jul 2020 22:36:22 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/system_overview/contraindications/</guid>
+      <description>There are no contraindications at this time.</description>
+    </item>
+    
+    <item>
+      <title>Clinical Benefits</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/system_overview/clinical_benefits/</link>
+      <pubDate>Fri, 10 Jul 2020 22:37:22 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/system_overview/clinical_benefits/</guid>
+      <description>The intended clinical benefit of the system is to allow users to visualize the ophthalmic surgery by looking at a display screen rather than in standard microscope oculars.</description>
+    </item>
+    
+    <item>
+      <title>Environmental Considerations</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/system_overview/environmental_considerations/</link>
+      <pubDate>Fri, 10 Jul 2020 22:37:37 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/system_overview/environmental_considerations/</guid>
+      <description>Keep the system dry and protect it from harmful ingress of water. The camera includes a rating of IPX1: protection against vertically falling drops of water.
+WARNINGTo prevent fire or shock hazard, do not expose system to rain or moisture.</description>
+    </item>
+    
+  </channel>
+</rss>

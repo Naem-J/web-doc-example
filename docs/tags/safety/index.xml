@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>safety on 3D Visualization System for Ophthalmic Surgery</title>
+    <link>https://naem-j.github.io/web-doc-example/tags/safety/</link>
+    <description>Recent content in safety on 3D Visualization System for Ophthalmic Surgery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jul 2020 00:03:28 -0700</lastBuildDate>
+    
+	<atom:link href="https://naem-j.github.io/web-doc-example/tags/safety/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Symbols</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/guide_overview/symbols/</link>
+      <pubDate>Fri, 10 Jul 2020 22:34:49 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/guide_overview/symbols/</guid>
+      <description>The following symbols and icons are used on the system and in labels:
+  Date of Manufacture     Manufacturer     Risk of Electric Shock     Safety Warning   </description>
+    </item>
+    
+    <item>
+      <title>General Warnings and Precautions</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/safety_information/general_warnings/</link>
+      <pubDate>Fri, 10 Jul 2020 22:38:19 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/safety_information/general_warnings/</guid>
+      <description>A warning statement is written to protect individuals from bodily harm. A caution statement is written to protect the instrument from damage. This section is for general system warnings and precautions only.
+WARNINGUse of accessories other than those provided may affect system performance and create potential hazards. If it is determined that an accessory not provided by the Company has contributed to the malfunction of the equipment during the warranty period, service will be provided at prevailing hourly rates.</description>
+    </item>
+    
+    <item>
+      <title>Label Locations</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/safety_information/label_locations/</link>
+      <pubDate>Fri, 10 Jul 2020 22:43:42 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/safety_information/label_locations/</guid>
+      <description>Note the safety and system label locations. Refer to the system for specific information.
+1 Moving parts warning label &amp;ndash; Includes a warning related to a protective guard.2 Identifies compatible connectors. &amp;ndash; The location and connector type varies with the display model.3 Oculars storage warning label &amp;ndash; Includes information about storing the microscope oculars.4 Product label &amp;ndash; Includes information about the system.5 Wireless label &amp;ndash; Indicates wireless capabilities.</description>
+    </item>
+    
+    <item>
+      <title>Serious incident Reporting</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/safety_information/serious_incident_reporting/</link>
+      <pubDate>Fri, 10 Jul 2020 22:44:00 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/safety_information/serious_incident_reporting/</guid>
+      <description>Report any serious incident related to the system to the Company. In the EU, also report serious incidents to the competent authority for medical devices for the member state.
+Website: www.____.com</description>
+    </item>
+    
+    <item>
+      <title>Disposal</title>
+      <link>https://naem-j.github.io/web-doc-example/additional_information/disposal/</link>
+      <pubDate>Thu, 16 Jul 2020 00:03:28 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/additional_information/disposal/</guid>
+      <description>This product complies with the WEEE Directive (2002/96/EC) marking requirement. Do not discard this electronic product in domestic household waste. This is an explanation of how to dispose of this product based on Waste Electrical and Electronic Equipment (WEEE), Directive 2002/96/EC. This directive is only valid in the EU. With reference to the equipment types in the WEEE directive Annex 1, this product is classified as a “Medical Device” product. Do not dispose in domestic household waste.</description>
+    </item>
+    
+  </channel>
+</rss>

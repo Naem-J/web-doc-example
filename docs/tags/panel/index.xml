@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>panel on 3D Visualization System for Ophthalmic Surgery</title>
+    <link>https://naem-j.github.io/web-doc-example/tags/panel/</link>
+    <description>Recent content in panel on 3D Visualization System for Ophthalmic Surgery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jul 2020 23:24:17 -0700</lastBuildDate>
+    
+	<atom:link href="https://naem-j.github.io/web-doc-example/tags/panel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cleaning</title>
+      <link>https://naem-j.github.io/web-doc-example/maintenance/cleaning/</link>
+      <pubDate>Wed, 15 Jul 2020 23:24:17 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/maintenance/cleaning/</guid>
+      <description>Clean the system by periodically wiping down with a dry, lint-free cloth. Use warm water and mild detergent on non-electrical system components (for example, the cart, exterior cart panels, and 3D glasses). Wipe down the camera and camera cable with isopropyl alcohol. Wipe the display with a soft, dry cloth. Use less than 0.10 lb. of force on the display. Water-based cleaners may damage the coating on the screen.  CAUTIONDo not immerse or expose electrical components to excessive moisture.</description>
+    </item>
+    
+    <item>
+      <title>Cart</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/system_components/cart/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:38 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/system_components/cart/</guid>
+      <description>The cart receives video input from the camera and additional data from other connected devices, and then outputs the results on the monitor.
+1 Primary Display &amp;ndash; Produces 3840 x 2160p 3D resolution video. 3D images require passive, circularly-polarized 3D glasses.2 Cable access &amp;ndash; Routes cables from inside the system to external devices.3 Front panel connectors &amp;ndash; Includes 2 USB, an HDMI output, and a composite connector.</description>
+    </item>
+    
+  </channel>
+</rss>

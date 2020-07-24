@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Settings on 3D Visualization System for Ophthalmic Surgery</title>
+    <link>https://naem-j.github.io/web-doc-example/operation/settings/</link>
+    <description>Recent content in Settings on 3D Visualization System for Ophthalmic Surgery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jul 2020 23:43:44 -0700</lastBuildDate>
+    
+	<atom:link href="https://naem-j.github.io/web-doc-example/operation/settings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Screen Layout</title>
+      <link>https://naem-j.github.io/web-doc-example/operation/settings/screen_layout/</link>
+      <pubDate>Sat, 11 Jul 2020 23:44:20 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/operation/settings/screen_layout/</guid>
+      <description>To access the Screen Layout options, click Screen Layout. To set basic layout features, click Basic. To set advanced layout features, click Advanced.
+1 Patient Info drop-down menu &amp;ndash; Sets the frequency in which patient information displays during operation.2 PiP Location &amp;ndash; Sets the screen corner to display input from the secondary source during PiP layout. This option applies only when Secondary Viewport is set to PiP.3 Secondary Viewport buttons &amp;ndash; Sets the layout for a secondary viewport the Screen Layout button switches to when clicked.</description>
+    </item>
+    
+    <item>
+      <title>Recording Settings</title>
+      <link>https://naem-j.github.io/web-doc-example/operation/settings/recording_settings/</link>
+      <pubDate>Sat, 11 Jul 2020 23:44:31 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/operation/settings/recording_settings/</guid>
+      <description>To access Recording options, click Recording.
+NOTE: Recording settings cannot be changed while recording video.
+Basic and Advanced To set basic settings, click Basic. To set advanced settings, click Advanced.
+1 Movies Format buttons &amp;ndash; Saves video files as .avi or .mov files.2 Show Logo toggle switch &amp;ndash; Displays the system logo in the bottom-left corner during operation if Record DataFusion is disabled.3 Auto-Record toggle switch &amp;ndash; Automatically starts recording when a case starts.</description>
+    </item>
+    
+    <item>
+      <title>Language</title>
+      <link>https://naem-j.github.io/web-doc-example/operation/settings/language/</link>
+      <pubDate>Sat, 11 Jul 2020 23:47:58 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/operation/settings/language/</guid>
+      <description>The Language system settings control the language the system displays. Contact Technical Services for additional languages.
+  To change the language, perform the following:
+ In the Language drop-down menu, select a language. Click Confirm.  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://naem-j.github.io/web-doc-example/operation/settings/about/</link>
+      <pubDate>Sat, 11 Jul 2020 23:48:12 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/operation/settings/about/</guid>
+      <description>The About system settings displays general system information, including software version and a copy of the user guide.</description>
+    </item>
+    
+  </channel>
+</rss>

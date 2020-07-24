@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>introduction on 3D Visualization System for Ophthalmic Surgery</title>
+    <link>https://naem-j.github.io/web-doc-example/categories/introduction/</link>
+    <description>Recent content in introduction on 3D Visualization System for Ophthalmic Surgery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jul 2020 22:46:20 -0700</lastBuildDate>
+    
+	<atom:link href="https://naem-j.github.io/web-doc-example/categories/introduction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Guide Overview</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/guide_overview/</link>
+      <pubDate>Fri, 10 Jul 2020 22:33:50 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/guide_overview/</guid>
+      <description>This user guide contains set up, operation, and other information about the 3D Visualization System.</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/guide_overview/terms/</link>
+      <pubDate>Fri, 10 Jul 2020 22:34:17 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/guide_overview/terms/</guid>
+      <description>The following terms are used in this guide or in the application:
+ System - The 3D visualization system, including the cart, display, and camera. Vit System - The Company Vitrectomy Vision system Phaco System - The Company Phacoemulsification Vision System Analysis System - The Company Measurement System  </description>
+    </item>
+    
+    <item>
+      <title>Symbols</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/guide_overview/symbols/</link>
+      <pubDate>Fri, 10 Jul 2020 22:34:49 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/guide_overview/symbols/</guid>
+      <description>The following symbols and icons are used on the system and in labels:
+  Date of Manufacture     Manufacturer     Risk of Electric Shock     Safety Warning   </description>
+    </item>
+    
+    <item>
+      <title>System Description</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/system_overview/system_description/</link>
+      <pubDate>Fri, 10 Jul 2020 22:35:27 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/system_overview/system_description/</guid>
+      <description>The system is a 3D stereoscopic, high-definition digital video camera and workstation that operates as an adjunct to a surgical microscope during surgery. The system displays real-time images or images from recordings on a flat-panel, high-definition digital 3D display device, positioned for viewing video. There is no additional light (or energy) delivered by the system.</description>
+    </item>
+    
+    <item>
+      <title>Intended Use</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/system_overview/intended_use/</link>
+      <pubDate>Fri, 10 Jul 2020 22:35:43 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/system_overview/intended_use/</guid>
+      <description>The system is intended to aid trained surgeons in visualization during ophthalmic surgery.</description>
+    </item>
+    
+    <item>
+      <title>Indications for Use</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/system_overview/indications_for_use/</link>
+      <pubDate>Fri, 10 Jul 2020 22:37:01 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/system_overview/indications_for_use/</guid>
+      <description>The system is provides magnified stereoscopic images of objects in real time or from recordings.</description>
+    </item>
+    
+    <item>
+      <title>Contraindications</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/system_overview/contraindications/</link>
+      <pubDate>Fri, 10 Jul 2020 22:36:22 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/system_overview/contraindications/</guid>
+      <description>There are no contraindications at this time.</description>
+    </item>
+    
+    <item>
+      <title>Clinical Benefits</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/system_overview/clinical_benefits/</link>
+      <pubDate>Fri, 10 Jul 2020 22:37:22 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/system_overview/clinical_benefits/</guid>
+      <description>The intended clinical benefit of the system is to allow users to visualize the ophthalmic surgery by looking at a display screen rather than in standard microscope oculars.</description>
+    </item>
+    
+    <item>
+      <title>Environmental Considerations</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/system_overview/environmental_considerations/</link>
+      <pubDate>Fri, 10 Jul 2020 22:37:37 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/system_overview/environmental_considerations/</guid>
+      <description>Keep the system dry and protect it from harmful ingress of water. The camera includes a rating of IPX1: protection against vertically falling drops of water.
+WARNINGTo prevent fire or shock hazard, do not expose system to rain or moisture.</description>
+    </item>
+    
+    <item>
+      <title>General Warnings and Precautions</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/safety_information/general_warnings/</link>
+      <pubDate>Fri, 10 Jul 2020 22:38:19 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/safety_information/general_warnings/</guid>
+      <description>A warning statement is written to protect individuals from bodily harm. A caution statement is written to protect the instrument from damage. This section is for general system warnings and precautions only.
+WARNINGUse of accessories other than those provided may affect system performance and create potential hazards. If it is determined that an accessory not provided by the Company has contributed to the malfunction of the equipment during the warranty period, service will be provided at prevailing hourly rates.</description>
+    </item>
+    
+    <item>
+      <title>Label Locations</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/safety_information/label_locations/</link>
+      <pubDate>Fri, 10 Jul 2020 22:43:42 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/safety_information/label_locations/</guid>
+      <description>Note the safety and system label locations. Refer to the system for specific information.
+1 Moving parts warning label &amp;ndash; Includes a warning related to a protective guard.2 Identifies compatible connectors. &amp;ndash; The location and connector type varies with the display model.3 Oculars storage warning label &amp;ndash; Includes information about storing the microscope oculars.4 Product label &amp;ndash; Includes information about the system.5 Wireless label &amp;ndash; Indicates wireless capabilities.</description>
+    </item>
+    
+    <item>
+      <title>Warranty</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/warranty/</link>
+      <pubDate>Fri, 10 Jul 2020 22:44:37 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/warranty/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Interdum varius sit amet mattis vulputate.</description>
+    </item>
+    
+    <item>
+      <title>Serious incident Reporting</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/safety_information/serious_incident_reporting/</link>
+      <pubDate>Fri, 10 Jul 2020 22:44:00 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/safety_information/serious_incident_reporting/</guid>
+      <description>Report any serious incident related to the system to the Company. In the EU, also report serious incidents to the competent authority for medical devices for the member state.
+Website: www.____.com</description>
+    </item>
+    
+    <item>
+      <title>System Components</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/system_components/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:21 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/system_components/</guid>
+      <description>At a minimum, the system includes the cart, camera, microscope, 3D glasses, keyboard, and touchpad. However, the following is an example of a typical setup, including additional devices:
+1 System &amp;ndash; Receives video from the camera and displays 3D images.2 Patient Bed &amp;ndash; Holds the patient at a comfortable level.3 Microscope stand &amp;ndash; Suspends a microscope above the patient.4 Camera &amp;ndash; Captures 3D video.5 Microscope &amp;ndash; Magnifies the view of the camera.</description>
+    </item>
+    
+    <item>
+      <title>Camera</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/system_components/camera/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:28 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/system_components/camera/</guid>
+      <description>The camera is a stereoscopic 3D camera with high dynamic range. Mount the camera on a surgical microscope.
+1 Camera &amp;ndash; Captures video from the connected microscope.2 Strain relief screw &amp;ndash; Holds the camera cable in place to reduce stress on the cable connection.3 USB camera connector &amp;ndash; Connects the camera to the cart.4 Iris slider &amp;ndash; Adjusts light exposure captured by the camera.</description>
+    </item>
+    
+    <item>
+      <title>Cart</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/system_components/cart/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:38 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/system_components/cart/</guid>
+      <description>The cart receives video input from the camera and additional data from other connected devices, and then outputs the results on the monitor.
+1 Primary Display &amp;ndash; Produces 3840 x 2160p 3D resolution video. 3D images require passive, circularly-polarized 3D glasses.2 Cable access &amp;ndash; Routes cables from inside the system to external devices.3 Front panel connectors &amp;ndash; Includes 2 USB, an HDMI output, and a composite connector.</description>
+    </item>
+    
+    <item>
+      <title>Displays</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/system_components/displays/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:44 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/system_components/displays/</guid>
+      <description>Depending on the display model, the system connects to the display either through DisplayPort input 1 or both the HDMI input 3 and COMM cable connector. The system also supports a secondary display to either duplicate the primary display view or show a subset of features.</description>
+    </item>
+    
+    <item>
+      <title>Glasses</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/system_components/glasses/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:52 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/system_components/glasses/</guid>
+      <description>3D images require passive, circularly-polarized 3D glasses. If necessary, wear the 3D glasses over prescription glasses.
+CAUTIONThe 3D glasses must be worn in front of the laser protective eyewear to avoid distorting the 3D effect.</description>
+    </item>
+    
+    <item>
+      <title>Keyboard and Mouse</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/system_components/keyboard_and_mouse/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:58 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/system_components/keyboard_and_mouse/</guid>
+      <description>The system includes both a wired and a wireless keyboard with an integrated touchpad. The wireless keyboard is rechargeable and the battery indicator displays the charge level while the keyboard is on.
+1 Power indicator &amp;ndash; Lights according to the battery status Blinking green - The battery is charging. Solid green – The battery has adequate charge. Blinking red – The battery power is low. Recharge the battery.  2 USB connector &amp;ndash; Connects the keyboard to a power source to recharge the batteries.</description>
+    </item>
+    
+    <item>
+      <title>Footswitch (Optional)</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/system_components/footswitch/</link>
+      <pubDate>Fri, 10 Jul 2020 22:46:15 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/system_components/footswitch/</guid>
+      <description>The footswitch performs basic functions during operation through controls operated by a foot.
+1 Left push button &amp;ndash; Changes the camera orientation between standard and inverted.2 Right push button &amp;ndash; Starts or stops movie recordings.3 Left pedal &amp;ndash; Cycles to the previous imaging mode.4 Right pedal &amp;ndash; Cycles to the next imaging mode.</description>
+    </item>
+    
+    <item>
+      <title>Accessories</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/system_components/accessories/</link>
+      <pubDate>Fri, 10 Jul 2020 22:46:20 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/system_components/accessories/</guid>
+      <description>The system may include the following accessories:
+ Lens cap - Protects the camera lens. Cable straps - Secure the camera cable to the microscope. Cable hooks - Route loose cables or coil cable for storage or transportation. Display remote and batteries - Sets the display settings. Use only if directed by Technical Services. The remote may require AA or AAA batteries depending on the display modal. Screen protector - Protects the display when the system is in storage.</description>
+    </item>
+    
+  </channel>
+</rss>

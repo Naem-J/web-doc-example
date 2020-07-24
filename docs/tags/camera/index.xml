@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>camera on 3D Visualization System for Ophthalmic Surgery</title>
+    <link>https://naem-j.github.io/web-doc-example/tags/camera/</link>
+    <description>Recent content in camera on 3D Visualization System for Ophthalmic Surgery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jul 2020 23:30:02 -0700</lastBuildDate>
+    
+	<atom:link href="https://naem-j.github.io/web-doc-example/tags/camera/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>System Components</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/system_components/</link>
+      <pubDate>Fri, 10 Jul 2020 22:45:21 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/system_components/</guid>
+      <description>At a minimum, the system includes the cart, camera, microscope, 3D glasses, keyboard, and touchpad. However, the following is an example of a typical setup, including additional devices:
+1 System &amp;ndash; Receives video from the camera and displays 3D images.2 Patient Bed &amp;ndash; Holds the patient at a comfortable level.3 Microscope stand &amp;ndash; Suspends a microscope above the patient.4 Camera &amp;ndash; Captures 3D video.5 Microscope &amp;ndash; Magnifies the view of the camera.</description>
+    </item>
+    
+    <item>
+      <title>Cleaning</title>
+      <link>https://naem-j.github.io/web-doc-example/maintenance/cleaning/</link>
+      <pubDate>Wed, 15 Jul 2020 23:24:17 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/maintenance/cleaning/</guid>
+      <description>Clean the system by periodically wiping down with a dry, lint-free cloth. Use warm water and mild detergent on non-electrical system components (for example, the cart, exterior cart panels, and 3D glasses). Wipe down the camera and camera cable with isopropyl alcohol. Wipe the display with a soft, dry cloth. Use less than 0.10 lb. of force on the display. Water-based cleaners may damage the coating on the screen.  CAUTIONDo not immerse or expose electrical components to excessive moisture.</description>
+    </item>
+    
+    <item>
+      <title>Storage and Transportation</title>
+      <link>https://naem-j.github.io/web-doc-example/maintenance/storage/</link>
+      <pubDate>Wed, 15 Jul 2020 23:24:29 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/maintenance/storage/</guid>
+      <description>To store or transport the system within the facility, perform the following:
+ Route the camera cable.
+a. Disconnect the camera cable from the camera.
+b. Wrap camera cable around the camera cable coil. Route the power cable.
+a. Disconnect the power cable from the outlet.
+b. Wrap power cable around the power cable coil. If the system includes a connected DataFusion device, disconnect the cable on the other device.</description>
+    </item>
+    
+    <item>
+      <title>Troubleshooting</title>
+      <link>https://naem-j.github.io/web-doc-example/maintenance/troubleshooting/</link>
+      <pubDate>Wed, 15 Jul 2020 23:30:02 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/maintenance/troubleshooting/</guid>
+      <description>If the system exhibits the following symptoms, attempt the corresponding troubleshooting procedures before contacting Technical Services.
+The image is blurry or out of focus  Use the microscope controls to focus the image on-screen. Check to see that the camera is flush on the microscope. Wearing the 3D glasses, close one eye at a time to check the right and left eye focus for the camera. If the image still appears out of focus or blurry, check the microscope alignment.</description>
+    </item>
+    
+    <item>
+      <title>Footswitch (Optional)</title>
+      <link>https://naem-j.github.io/web-doc-example/system_information/system_components/footswitch/</link>
+      <pubDate>Fri, 10 Jul 2020 22:46:15 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/system_information/system_components/footswitch/</guid>
+      <description>The footswitch performs basic functions during operation through controls operated by a foot.
+1 Left push button &amp;ndash; Changes the camera orientation between standard and inverted.2 Right push button &amp;ndash; Starts or stops movie recordings.3 Left pedal &amp;ndash; Cycles to the previous imaging mode.4 Right pedal &amp;ndash; Cycles to the next imaging mode.</description>
+    </item>
+    
+    <item>
+      <title>Monitor</title>
+      <link>https://naem-j.github.io/web-doc-example/operation/settings/system_settings/monitor/</link>
+      <pubDate>Sat, 11 Jul 2020 23:47:47 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/operation/settings/system_settings/monitor/</guid>
+      <description>The monitor system settings have adjustable settings for displays connected to the system. To access Monitor options, click Monitor.
+1 Monitor drop-down menu &amp;ndash; Selects a display.2 Primary Monitor toggle switch &amp;ndash; Sets the selected display to the primary display. Only use the provided monitor as the primary monitor.3 View drop-down menu &amp;ndash; Sets the content on the screen. Select one of the following: Control - Displays the user interface and system camera image.</description>
+    </item>
+    
+  </channel>
+</rss>

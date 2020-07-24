@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OD on 3D Visualization System for Ophthalmic Surgery</title>
+    <link>https://naem-j.github.io/web-doc-example/tags/od/</link>
+    <description>Recent content in OD on 3D Visualization System for Ophthalmic Surgery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jul 2020 23:24:17 -0700</lastBuildDate>
+    
+	<atom:link href="https://naem-j.github.io/web-doc-example/tags/od/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Add Patient Profile</title>
+      <link>https://naem-j.github.io/web-doc-example/operation/patient_management/add_patient/</link>
+      <pubDate>Sat, 11 Jul 2020 23:24:17 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/operation/patient_management/add_patient/</guid>
+      <description>In the Home panel, select the patient Add button. The Patient Information dialog box opens. Enter a first and last name. Select one of the following:  OD – right eye OS – left eye   To add a date of birth, patient ID name, or procedure, click Optional Data. a. In the Date of Birth field, enter a year, month, and day. b. In the ID field, enter a unique identification code.</description>
+    </item>
+    
+  </channel>
+</rss>

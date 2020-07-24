@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fuzzy on 3D Visualization System for Ophthalmic Surgery</title>
+    <link>https://naem-j.github.io/web-doc-example/tags/fuzzy/</link>
+    <description>Recent content in fuzzy on 3D Visualization System for Ophthalmic Surgery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jul 2020 23:30:02 -0700</lastBuildDate>
+    
+	<atom:link href="https://naem-j.github.io/web-doc-example/tags/fuzzy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Troubleshooting</title>
+      <link>https://naem-j.github.io/web-doc-example/maintenance/troubleshooting/</link>
+      <pubDate>Wed, 15 Jul 2020 23:30:02 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/web-doc-example/maintenance/troubleshooting/</guid>
+      <description>If the system exhibits the following symptoms, attempt the corresponding troubleshooting procedures before contacting Technical Services.
+The image is blurry or out of focus  Use the microscope controls to focus the image on-screen. Check to see that the camera is flush on the microscope. Wearing the 3D glasses, close one eye at a time to check the right and left eye focus for the camera. If the image still appears out of focus or blurry, check the microscope alignment.</description>
+    </item>
+    
+  </channel>
+</rss>
